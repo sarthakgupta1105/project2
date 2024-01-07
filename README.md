@@ -1,2 +1,3 @@
 # New Project
-This is a new project in local system.
+This project was created from local system.
+By Sarthak Gupta
